@@ -1,0 +1,14 @@
+# Python 3.10 à 3.12 recommandé (spaCy, PyTorch et transformers ne couvrent pas toujours les versions les plus récentes)
+spacy>=3.7
+transformers>=4.41
+tokenizers>=0.19
+torch>=2.2
+accelerate>=1.1.0
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+joblib>=1.3
+streamlit>=1.35
+ipykernel>=6.29
+# Modèle spaCy (à installer à part) : python -m spacy download fr_core_news_md

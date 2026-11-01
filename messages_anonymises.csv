@@ -1,0 +1,321 @@
+message_id,texte
+M0001,J'ai payé [MONTANT] pour la livraison à Thiès mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0002,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Thiès."
+M0003,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Ziguinchor."
+M0004,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 19 décembre n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0005,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0006,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Mbour."
+M0007,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0008,J'ai payé [MONTANT] pour la livraison à Rufisque mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0009,"Service rapide, livraison à Rufisque en 30 minutes. [NOM] !"
+M0010,Merci à [NOM] pour son accueil hier à la boutique de Saint-Louis.
+M0011,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0012,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0013,Merci à [NOM] pour son accueil le 21 août à la boutique de Thiès.
+M0014,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0015,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 12 octobre n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0016,Merci à [NOM] pour son accueil le 20/07/2025 à la boutique de Thiès.
+M0017,"Le chauffeur [NOM] a été très correct, trajet Dakar – Dakar pour [MONTANT]. Je recommande."
+M0018,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Kaolack."
+M0019,J'ai payé [MONTANT] pour la livraison à Dakar mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. Ousmane [NOM]
+M0020,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 16/04/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0021,"Service rapide, livraison à Mbour en 30 minutes. [NOM] !"
+M0022,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Thiès."
+M0023,Merci à [NOM] pour son accueil hier à la boutique de Dakar.
+M0024,Remboursement de [MONTANT] toujours en attente depuis le 2 février. Mon numéro : [TEL].
+M0025,J'ai payé [MONTANT] pour la livraison à Kaolack mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. Ousmane [NOM]
+M0026,"Le chauffeur [NOM] a été très correct, trajet Ziguinchor – Dakar pour [MONTANT]. Je recommande."
+M0027,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0028,J'ai payé [MONTANT] pour la livraison à Touba mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0029,"Service rapide, livraison à Dakar en 30 minutes. [NOM] !"
+M0030,Merci à [NOM] pour son accueil le 13/03/2025 à la boutique de Thiès.
+M0031,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Mbour."
+M0032,J'ai payé [MONTANT] pour la livraison à Dakar mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0033,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0034,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0035,J'ai payé [MONTANT] pour la livraison à Mbour mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0036,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 05/11/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0037,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0038,"Le chauffeur [NOM] a été très correct, trajet Touba – Dakar pour [MONTANT]. Je recommande."
+M0039,Merci à [NOM] pour son accueil hier à la boutique de Rufisque.
+M0040,J'ai payé [MONTANT] pour la livraison à Rufisque mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0041,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0042,"Le thiéboudienne livré le 22/02/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0043,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0044,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0045,"Le chauffeur [NOM] a été très correct, trajet Ziguinchor – Dakar pour [MONTANT]. Je recommande."
+M0046,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] (Aminata Kane)."
+M0047,J'ai payé [MONTANT] pour la livraison à Dakar mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0048,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0049,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0050,Merci à [NOM] pour son accueil ce matin à la boutique de Mbour.
+M0051,"Le chauffeur [NOM] a été très correct, trajet Mbour – Dakar pour [MONTANT]. Je recommande."
+M0052,J'ai payé [MONTANT] pour la livraison à Saint-Louis mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0053,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0054,"Mon frère Fatou Seck a essayé de vous joindre le 10 juin au [TEL], sans réponse."
+M0055,"Mon frère Ndèye Kane a essayé de vous joindre le 10 février au [TEL], sans réponse."
+M0056,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0057,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Mbour."
+M0058,Merci à [NOM] pour son accueil le 20/06/2025 à la boutique de Saint-Louis.
+M0059,Merci à [NOM] pour son accueil le 13/12/2025 à la boutique de Dakar.
+M0060,"Service rapide, livraison à Dakar en 30 minutes. [NOM] !"
+M0061,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0062,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Saint-Louis."
+M0063,"Service rapide, livraison à Touba en 30 minutes. [NOM] !"
+M0064,Remboursement de [MONTANT] toujours en attente depuis le 22 novembre. Mon numéro : [TEL].
+M0065,"Le thiéboudienne livré le 7 janvier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0066,"Le thiéboudienne livré hier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0067,"Mon frère [NOM] a essayé de vous joindre le 26 décembre au [TEL], sans réponse."
+M0068,Remboursement de [MONTANT] toujours en attente depuis hier. Mon numéro : [TEL].
+M0069,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0070,"Le thiéboudienne livré ce matin était froid. Commande [COMMANDE], payée [MONTANT]."
+M0071,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0072,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Rufisque."
+M0073,"Mon frère [NOM] a essayé de vous joindre le 24/10/2025 au [TEL], sans réponse."
+M0074,Merci à [NOM] pour son accueil le 2 février à la boutique de Kaolack.
+M0075,Remboursement de [MONTANT] toujours en attente depuis le 18 mars. Mon numéro : [TEL].
+M0076,"Le chauffeur [NOM] a été très correct, trajet Dakar – Dakar pour [MONTANT]. Je recommande."
+M0077,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0078,Merci à [NOM] pour son accueil ce matin à la boutique de Rufisque.
+M0079,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0080,Remboursement de [MONTANT] toujours en attente depuis le 23/06/2025. Mon numéro : [TEL].
+M0081,"Mon frère [NOM] a essayé de vous joindre le 13 décembre au [TEL], sans réponse."
+M0082,"Le chauffeur [NOM] a été très correct, trajet Saint-Louis – Dakar pour [MONTANT]. Je recommande."
+M0083,"Le chauffeur [NOM] a été très correct, trajet Thiès – Dakar pour [MONTANT]. Je recommande."
+M0084,"Mon frère [NOM] a essayé de vous joindre le 27/09/2025 au [TEL], sans réponse."
+M0085,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0086,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0087,Merci à [NOM] pour son accueil le 4 août à la boutique de Rufisque.
+M0088,"Le chauffeur [NOM] a été très correct, trajet Saint-Louis – Dakar pour [MONTANT]. Je recommande."
+M0089,"Le chauffeur [NOM] a été très correct, trajet Saint-Louis – Dakar pour [MONTANT]. Je recommande."
+M0090,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] (Ndèye Ndiaye)."
+M0091,J'ai payé [MONTANT] pour la livraison à Kaolack mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0092,"Le thiéboudienne livré le 15/02/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0093,Merci à [NOM] pour son accueil le 23 novembre à la boutique de Rufisque.
+M0094,Merci à [NOM] pour son accueil hier à la boutique de Saint-Louis.
+M0095,"Le chauffeur [NOM] a été très correct, trajet Mbour – Dakar pour [MONTANT]. Je recommande."
+M0096,Merci à [NOM] pour son accueil le 27/10/2025 à la boutique de Thiès.
+M0097,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0098,"Service rapide, livraison à Mbour en 30 minutes. [NOM] !"
+M0099,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0100,J'ai payé [MONTANT] pour la livraison à Touba mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0101,J'ai payé [MONTANT] pour la livraison à Rufisque mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0102,"Le chauffeur [NOM] a été très correct, trajet Dakar – Dakar pour [MONTANT]. Je recommande."
+M0103,J'ai payé [MONTANT] pour la livraison à Saint-Louis mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. Mamadou Seck
+M0104,"Service rapide, livraison à Kaolack en 30 minutes. [NOM] !"
+M0105,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée hier n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0106,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0107,"Le thiéboudienne livré le 20 novembre était froid. Commande [COMMANDE], payée [MONTANT]."
+M0108,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0109,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Saint-Louis."
+M0110,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0111,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Rufisque."
+M0112,"Le chauffeur [NOM] a été très correct, trajet Thiès – Dakar pour [MONTANT]. Je recommande."
+M0113,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0114,Remboursement de [MONTANT] toujours en attente depuis le 13/06/2025. Mon numéro : [TEL].
+M0115,"Service rapide, livraison à Saint-Louis en 30 minutes. [NOM] !"
+M0116,"Le thiéboudienne livré le 26/08/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0117,"Mon frère [NOM] a essayé de vous joindre le 26/12/2025 au [TEL], sans réponse."
+M0118,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0119,J'ai payé [MONTANT] pour la livraison à Saint-Louis mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0120,Merci à [NOM] pour son accueil le 9 novembre à la boutique de Mbour.
+M0121,J'ai payé [MONTANT] pour la livraison à Thiès mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0122,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0123,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 26 juillet n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0124,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] (Aminata Kane)."
+M0125,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0126,Remboursement de [MONTANT] toujours en attente depuis le 24 octobre. Mon numéro : [TEL].
+M0127,J'ai payé [MONTANT] pour la livraison à Mbour mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0128,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Mbour."
+M0129,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0130,"Le thiéboudienne livré le 3 décembre était froid. Commande [COMMANDE], payée [MONTANT]."
+M0131,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Thiès."
+M0132,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0133,J'ai payé [MONTANT] pour la livraison à Touba mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0134,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 11/05/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0135,"Le chauffeur [NOM] a été très correct, trajet Ziguinchor – Dakar pour [MONTANT]. Je recommande."
+M0136,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0137,"Service rapide, livraison à Touba en 30 minutes. [NOM] !"
+M0138,Merci à [NOM] pour son accueil ce matin à la boutique de Saint-Louis.
+M0139,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0140,"Le chauffeur [NOM] a été très correct, trajet Dakar – Dakar pour [MONTANT]. Je recommande."
+M0141,"Le chauffeur [NOM] a été très correct, trajet Thiès – Dakar pour [MONTANT]. Je recommande."
+M0142,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Mbour."
+M0143,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0144,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0145,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0146,"Le chauffeur [NOM] a été très correct, trajet Touba – Dakar pour [MONTANT]. Je recommande."
+M0147,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0148,"Le chauffeur [NOM] a été très correct, trajet Touba – Dakar pour [MONTANT]. Je recommande."
+M0149,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0150,Remboursement de [MONTANT] toujours en attente depuis le 26/05/2025. Mon numéro : [TEL].
+M0151,"Le chauffeur Ousmane [NOM] a été très correct, trajet Touba – Dakar pour [MONTANT]. Je recommande."
+M0152,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] (Fatou Gueye)."
+M0153,"Le thiéboudienne livré le 01/12/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0154,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0155,"Mon frère [NOM] a essayé de vous joindre le 18/02/2025 au [TEL], sans réponse."
+M0156,"Service rapide, livraison à Touba en 30 minutes. [NOM] !"
+M0157,"Service rapide, livraison à Ziguinchor en 30 minutes. [NOM] !"
+M0158,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0159,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0160,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0161,"Le thiéboudienne livré le 8 mars était froid. Commande [COMMANDE], payée [MONTANT]."
+M0162,"Service rapide, livraison à Kaolack en 30 minutes. [NOM] !"
+M0163,"Service rapide, livraison à Kaolack en 30 minutes. [NOM] !"
+M0164,Remboursement de [MONTANT] toujours en attente depuis le 12 juillet. Mon numéro : [TEL].
+M0165,"Service rapide, livraison à Thiès en 30 minutes. [NOM] !"
+M0166,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0167,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée hier n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0168,"Service rapide, livraison à Touba en 30 minutes. [NOM] !"
+M0169,J'ai payé [MONTANT] pour la livraison à Rufisque mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0170,"Le chauffeur [NOM] a été très correct, trajet Dakar – Dakar pour [MONTANT]. Je recommande."
+M0171,Remboursement de [MONTANT] toujours en attente depuis le 01/11/2025. Mon numéro : [TEL].
+M0172,J'ai payé [MONTANT] pour la livraison à Thiès mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0173,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Touba."
+M0174,"Mon frère [NOM] a essayé de vous joindre hier au [TEL], sans réponse."
+M0175,"Le chauffeur [NOM] a été très correct, trajet Touba – Dakar pour [MONTANT]. Je recommande."
+M0176,"Le chauffeur [NOM] a été très correct, trajet Saint-Louis – Dakar pour [MONTANT]. Je recommande."
+M0177,"Le thiéboudienne livré le 2 janvier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0178,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0179,"Le thiéboudienne livré le 03/02/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0180,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0181,"Le thiéboudienne livré hier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0182,"Le thiéboudienne livré le 26/03/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0183,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Ziguinchor."
+M0184,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0185,"Service rapide, livraison à Kaolack en 30 minutes. [NOM] !"
+M0186,"Service rapide, livraison à Kaolack en 30 minutes. [NOM] !"
+M0187,"Le chauffeur [NOM] a été très correct, trajet Thiès – Dakar pour [MONTANT]. Je recommande."
+M0188,"Le chauffeur [NOM] a été très correct, trajet Touba – Dakar pour [MONTANT]. Je recommande."
+M0189,"Le thiéboudienne livré le 08/07/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0190,"Service rapide, livraison à Saint-Louis en 30 minutes. [NOM] !"
+M0191,Merci à [NOM] pour son accueil ce matin à la boutique de Kaolack.
+M0192,J'ai payé [MONTANT] pour la livraison à Mbour mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0193,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Thiès."
+M0194,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0195,"Service rapide, livraison à Mbour en 30 minutes. [NOM] !"
+M0196,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0197,"Le chauffeur [NOM] a été très correct, trajet Ziguinchor – Dakar pour [MONTANT]. Je recommande."
+M0198,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0199,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0200,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 8 décembre n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0201,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Saint-Louis."
+M0202,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0203,Merci à [NOM] pour son accueil hier à la boutique de Thiès.
+M0204,Merci à [NOM] pour son accueil le 10/07/2025 à la boutique de Kaolack.
+M0205,"Le thiéboudienne livré ce matin était froid. Commande [COMMANDE], payée [MONTANT]."
+M0206,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 26/05/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0207,"Mon frère [NOM] a essayé de vous joindre hier au [TEL], sans réponse."
+M0208,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0209,"Le chauffeur [NOM] a été très correct, trajet Mbour – Dakar pour [MONTANT]. Je recommande."
+M0210,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0211,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0212,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0213,"Le thiéboudienne livré hier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0214,"Le chauffeur [NOM] a été très correct, trajet Ziguinchor – Dakar pour [MONTANT]. Je recommande."
+M0215,Merci à [NOM] pour son accueil ce matin à la boutique de Kaolack.
+M0216,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0217,Merci à [NOM] pour son accueil hier à la boutique de Rufisque.
+M0218,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Dakar."
+M0219,Remboursement de [MONTANT] toujours en attente depuis le 17/10/2025. Mon numéro : [TEL].
+M0220,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0221,Remboursement de [MONTANT] toujours en attente depuis le 14 novembre. Mon numéro : [TEL].
+M0222,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée hier n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0223,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0224,"Service rapide, livraison à Rufisque en 30 minutes. [NOM] !"
+M0225,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Mbour."
+M0226,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 8 novembre n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0227,J'ai payé [MONTANT] pour la livraison à Dakar mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0228,"Service rapide, livraison à Ziguinchor en 30 minutes. [NOM] !"
+M0229,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0230,Merci à [NOM] pour son accueil hier à la boutique de Mbour.
+M0231,J'ai payé [MONTANT] pour la livraison à Touba mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0232,"Le thiéboudienne livré hier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0233,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0234,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0235,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Touba."
+M0236,Merci à [NOM] pour son accueil ce matin à la boutique de Ziguinchor.
+M0237,J'ai payé [MONTANT] pour la livraison à Kaolack mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM] Seck
+M0238,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0239,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0240,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 07/03/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0241,"Le thiéboudienne livré le 19 février était froid. Commande [COMMANDE], payée [MONTANT]."
+M0242,Merci à Seynabou Sarr pour son accueil ce matin à la boutique de Ziguinchor.
+M0243,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0244,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0245,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0246,Merci à [NOM] pour son accueil ce matin à la boutique de Touba.
+M0247,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. Ndèye Seck
+M0248,Remboursement de [MONTANT] toujours en attente depuis hier. Mon numéro : [TEL].
+M0249,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0250,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0251,"Service rapide, livraison à Saint-Louis en 30 minutes. [NOM] !"
+M0252,"Service rapide, livraison à Mbour en 30 minutes. [NOM] !"
+M0253,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0254,"Service rapide, livraison à Dakar en 30 minutes. [NOM] !"
+M0255,"Mon frère [NOM] a essayé de vous joindre le 25/02/2025 au [TEL], sans réponse."
+M0256,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0257,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0258,"Le chauffeur [NOM] a été très correct, trajet Mbour – Dakar pour [MONTANT]. Je recommande."
+M0259,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Saint-Louis."
+M0260,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0261,"Service rapide, livraison à Mbour en 30 minutes. [NOM] !"
+M0262,Merci à [NOM] pour son accueil le 24 octobre à la boutique de Saint-Louis.
+M0263,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0264,J'ai payé [MONTANT] pour la livraison à Thiès mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0265,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0266,"Mon frère [NOM] a essayé de vous joindre le 12 mai au [TEL], sans réponse."
+M0267,J'ai payé [MONTANT] pour la livraison à Touba mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0268,Merci à [NOM] pour son accueil hier à la boutique de Touba.
+M0269,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Rufisque."
+M0270,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 1 janvier n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0271,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0272,"Mon frère [NOM] a essayé de vous joindre le 17/10/2025 au [TEL], sans réponse."
+M0273,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0274,Merci à [NOM] pour son accueil ce matin à la boutique de Ziguinchor.
+M0275,"Le chauffeur [NOM] a été très correct, trajet Thiès – Dakar pour [MONTANT]. Je recommande."
+M0276,"Le thiéboudienne livré le 07/01/2025 était froid. Commande [COMMANDE], payée [MONTANT]."
+M0277,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0278,Remboursement de [MONTANT] toujours en attente depuis ce matin. Mon numéro : [TEL].
+M0279,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0280,J'ai payé [MONTANT] pour la livraison à Mbour mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. Pape Seck
+M0281,J'ai payé [MONTANT] pour la livraison à Mbour mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. Mamadou Seck
+M0282,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0283,"Le thiéboudienne livré ce matin était froid. Commande [COMMANDE], payée [MONTANT]."
+M0284,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Saint-Louis."
+M0285,Merci à [NOM] pour son accueil le 25/12/2025 à la boutique de Kaolack.
+M0286,J'ai payé [MONTANT] pour la livraison à Kaolack mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0287,Merci à [NOM] pour son accueil le 6 juin à la boutique de Kaolack.
+M0288,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0289,Merci à [NOM] pour son accueil ce matin à la boutique de Dakar.
+M0290,"Le chauffeur [NOM] a été très correct, trajet Saint-Louis – Dakar pour [MONTANT]. Je recommande."
+M0291,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0292,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0293,"Mon frère [NOM] a essayé de vous joindre hier au [TEL], sans réponse."
+M0294,"Le chauffeur [NOM] a été très correct, trajet Thiès – Dakar pour [MONTANT]. Je recommande."
+M0295,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0296,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0297,Merci à [NOM] pour son accueil le 12/05/2025 à la boutique de Thiès.
+M0298,J'ai payé [MONTANT] pour la livraison à Kaolack mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0299,"Mon frère Mamadou Sow a essayé de vous joindre le 24 février au [TEL], sans réponse."
+M0300,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0301,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0302,"Vous m'avez facturé [MONTANT] au lieu de [MONTANT] pour la commande [COMMANDE]. [NOM], Saint-Louis."
+M0303,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0304,"Le thiéboudienne livré hier était froid. Commande [COMMANDE], payée [MONTANT]."
+M0305,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0306,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0307,"Bonjour, je suis Seynabou Faye. Ma commande [COMMANDE] passée ce matin n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0308,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0309,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 19 octobre n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0310,"Le chauffeur [NOM] a été très correct, trajet Kaolack – Dakar pour [MONTANT]. Je recommande."
+M0311,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 26/03/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0312,J'ai payé [MONTANT] pour la livraison à Ziguinchor mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]
+M0313,"Service rapide, livraison à Rufisque en 30 minutes. [NOM] !"
+M0314,"Service rapide, livraison à Dakar en 30 minutes. [NOM] !"
+M0315,"Bonjour, je suis [NOM]. Ma commande [COMMANDE] passée le 28/06/2025 n'est toujours pas arrivée. Rappelez-moi au [TEL]."
+M0316,"Mon frère [NOM] a essayé de vous joindre ce matin au [TEL], sans réponse."
+M0317,"Bonsoir, le colis [COMMANDE] est arrivé abîmé. Je veux un échange. Contact : [TEL] ([NOM])."
+M0318,"Le chauffeur [NOM] a été très correct, trajet Rufisque – Dakar pour [MONTANT]. Je recommande."
+M0319,"Mon frère [NOM] a essayé de vous joindre hier au [TEL], sans réponse."
+M0320,J'ai payé [MONTANT] pour la livraison à Thiès mais le livreur a demandé [MONTANT] en plus. Merci de me rembourser. [NOM]

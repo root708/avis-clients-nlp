@@ -1,0 +1,7 @@
+{
+ "mode_tfidf": "brut",
+ "variante": "brut, (1,3), min_df=2",
+ "f1_test_tfidf": 0.9269,
+ "f1_test_bert": 0.9156,
+ "epoques_bert": 3
+}

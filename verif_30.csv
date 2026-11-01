@@ -1,0 +1,31 @@
+message_id,texte,trouves_NOM,trouves_TEL,trouves_MONTANT,trouves_COMMANDE
+M0182,"Le thiéboudienne livré le 26/03/2025 était froid. Commande CMD-78067, payée 7 500 francs.",,,7 500 francs,CMD-78067
+M0259,"Vous m'avez facturé 120 000 F au lieu de 2.500 F pour la commande CMD-62415. Ndèye Gueye, Saint-Louis.",Ndèye Gueye,,120 000 F | 2.500 F,CMD-62415
+M0016,Merci à Khady Diallo pour son accueil le 20/07/2025 à la boutique de Thiès.,Khady Diallo,,,
+M0066,"Le thiéboudienne livré hier était froid. Commande CMD-34867, payée 3 500 FCFA.",,,3 500 FCFA,CMD-34867
+M0217,Merci à Moussa Ba pour son accueil hier à la boutique de Rufisque.,Moussa Ba,,,
+M0064,Remboursement de 45000 F toujours en attente depuis le 22 novembre. Mon numéro : +221701572068.,,+221701572068,45000 F,
+M0241,"Le thiéboudienne livré le 19 février était froid. Commande CMD-81259, payée 2 500 CFA.",,,2 500 CFA,CMD-81259
+M0229,Remboursement de 120000 F toujours en attente depuis ce matin. Mon numéro : 76 420 06 96.,,76 420 06 96,120000 F,
+M0168,"Service rapide, livraison à Touba en 30 minutes. Jërëjëf !",Jërëjëf,,,
+M0157,"Service rapide, livraison à Ziguinchor en 30 minutes. Jërëjëf !",Jërëjëf,,,
+M0065,"Le thiéboudienne livré le 7 janvier était froid. Commande CMD-90317, payée 25 000 FCFA.",,,25 000 FCFA,CMD-90317
+M0104,"Service rapide, livraison à Kaolack en 30 minutes. Jërëjëf !",Jërëjëf,,,
+M0125,"Bonsoir, le colis CMD-17700 est arrivé abîmé. Je veux un échange. Contact : 77 507 24 34 (Pape Thiam).",Pape Thiam,77 507 24 34,,CMD-17700
+M0316,"Mon frère Mariama Diallo a essayé de vous joindre ce matin au 75 646 93 02, sans réponse.",Mariama Diallo,75 646 93 02,,
+M0311,"Bonjour, je suis Khady Diop. Ma commande CMD-86532 passée le 26/03/2025 n'est toujours pas arrivée. Rappelez-moi au +221 76 980 98 05.",Khady Diop,+221 76 980 98 05,,CMD-86532
+M0061,"Bonjour, je suis Mariama Gueye. Ma commande CMD-84307 passée ce matin n'est toujours pas arrivée. Rappelez-moi au +221786896425.",Mariama Gueye,+221786896425,,CMD-84307
+M0123,"Bonjour, je suis Awa Mbaye. Ma commande CMD-46332 passée le 26 juillet n'est toujours pas arrivée. Rappelez-moi au 783594858.",Awa Mbaye,783594858,,CMD-46332
+M0272,"Mon frère Coumba Ndiaye a essayé de vous joindre le 17/10/2025 au 75 364 58 08, sans réponse.",Coumba Ndiaye,75 364 58 08,,
+M0067,"Mon frère Mamadou Diallo a essayé de vous joindre le 26 décembre au +221 76 294 22 80, sans réponse.",Mamadou Diallo,+221 76 294 22 80,,
+M0027,"Mon frère Cheikh Thiam a essayé de vous joindre ce matin au 764231836, sans réponse.",Cheikh Thiam,764231836,,
+M0287,Merci à Moussa Diallo pour son accueil le 6 juin à la boutique de Kaolack.,Moussa Diallo,,,
+M0159,"Bonsoir, le colis CMD-55190 est arrivé abîmé. Je veux un échange. Contact : 752456347 (Cheikh Diallo).",Cheikh Diallo,752456347,,CMD-55190
+M0137,"Service rapide, livraison à Touba en 30 minutes. Jërëjëf !",Jërëjëf,,,
+M0310,"Le chauffeur Ibrahima Fall a été très correct, trajet Kaolack – Dakar pour 1.000 CFA. Je recommande.",Ibrahima Fall,,1.000 CFA,
+M0165,"Service rapide, livraison à Thiès en 30 minutes. Jërëjëf !",Jërëjëf,,,
+M0201,"Vous m'avez facturé 25000 CFA au lieu de 1500 CFA pour la commande CMD-85594. Abdoulaye Diop, Saint-Louis.",Abdoulaye Diop,,25000 CFA | 1500 CFA,CMD-85594
+M0273,"Bonsoir, le colis CMD-96591 est arrivé abîmé. Je veux un échange. Contact : +221776905545 (Fatou Fall).",Fatou Fall,+221776905545,,CMD-96591
+M0008,J'ai payé 1.000 CFA pour la livraison à Rufisque mais le livreur a demandé 5000 CFA en plus. Merci de me rembourser. Babacar Diop,Babacar Diop,,1.000 CFA | 5000 CFA,
+M0007,Remboursement de 15.000 F toujours en attente depuis ce matin. Mon numéro : +221708581333.,,+221708581333,15.000 F,
+M0231,J'ai payé 12000 FCFA pour la livraison à Touba mais le livreur a demandé 3 500 F en plus. Merci de me rembourser. Ousmane Gueye,Ousmane Gueye,,12000 FCFA | 3 500 F,
