@@ -12,3 +12,5 @@ joblib>=1.3
 streamlit>=1.35
 ipykernel>=6.29
 # Modèle spaCy (à installer à part) : python -m spacy download fr_core_news_md
+spacy>=3.8,<3.9
+fr_core_news_md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.8.0/fr_core_news_md-3.8.0-py3-none-any.whl
